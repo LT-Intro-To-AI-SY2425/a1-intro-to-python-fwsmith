@@ -13,11 +13,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-
+My initial thoughts are that it is much less symbol intensive than java, which I had learned beforehand. theres a lot less equal signs and parenthesis. Its much easier to understand the code reading it because it feals a lot like just reading an english statement. It is much more natural to learn.
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
+compared to java, Python is easier to learn because it has much less syntax requirements to remember. In java, everything feels very rooted in math, while python writes like english.
 
 
 3. What are some things that you learned through this assignment?
+I learned a lot of simple code, and know how to format python, specifically with indents and parenthesis
